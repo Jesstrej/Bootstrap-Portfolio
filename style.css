@@ -1,12 +1,49 @@
 
 
-
 body {
-    background-image: url ("vintage-concrete.png");
+    background-image: url("../vintage-concrete/vintage-concrete.png");
+    box-sizing: border-box;
+    background-color: #eaeded;
+
+}
+
+.navbar-nav {
+    padding-left: 600px;
+}
+
+.navbar-brand {
+    padding-left: 150px;
+}
+
+.block-header {
+    font-weight: bold;
+    width: 960px;
+    color: #4aaaa5;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
+
+.container {
+    width: 750px;
+    margin: 0 auto;
+}
+
+img {
+    float: left;
+    padding: 0 1em 1em 0;
+    width: 165px;
+    height: 145px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #777;
+    color: #ccc;
+    line-height: 90px;
+    margin-top: 500px;
+    border-top: 8px solid #4aaaa5;
+    font-size: 12px;
 }
 
 
-ul li a {
-    float: right;
 
-}
+
