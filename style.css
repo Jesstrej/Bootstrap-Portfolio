@@ -47,3 +47,15 @@ img {
 
 
 
+
+.portfolio{
+ 
+    font-size: 18px;
+    line-height: 1.5em;
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 1em;
+    border-bottom: 2px solid #dddddd;
+    color: #4aaaa5;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
